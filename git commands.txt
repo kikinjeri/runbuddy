@@ -1,0 +1,13 @@
+pwd: Print working directory.
+
+ls: List files in directory.
+
+cd <directory-name>: Change to directory.
+
+cd ..: Go back (or up) a directory.
+
+mkdir <directory-name>: Make a new directory.
+
+touch <file-name>: Make a new file.
+
+rm <file-name>: Remove a file.
